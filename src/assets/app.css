@@ -1,0 +1,7 @@
+.full-width {
+  width: 100%;
+}
+.center-content {
+  display: flex;
+  align-items: center;justify-content: center;
+}
